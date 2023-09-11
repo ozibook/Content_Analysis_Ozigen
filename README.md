@@ -17,21 +17,21 @@ The Objective task is to
 
 # Installation Guide👨‍💻
 The following libraries are required to run the code<br>
-1. Import Numpy<br>
+1. Install Numpy<br>
 ```
-import numpy as np
+!pip install numpy 
 ```
-2. Import Matplotlib<br>
+2. Install Matplotlib<br>
 ```
-import matplotlib.pyplot as plt
+!pip install matplotlib
 ```
-3. Import Seaborn <br>
+3. Install Seaborn <br>
 ```
-import seaborn as sns
+!pip install seaborn 
 ```
-4. Import Pandas<br>
+4. Install Pandas<br>
 ```
-import pandas as pd
+!pip install pandas
 ```
 # FAQs❓
  * Which environment to choose?
