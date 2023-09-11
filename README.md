@@ -1,6 +1,6 @@
 ﻿# Content_Analysis_Ozigen
 ### Task Description📜
-Calling all content analysis enthusiasts! Ozibook's prized creation, Ozigen, is embarking on an exciting mission to analyze content and propel itself to new heights of success! Our goal is to unravel the victorious strategies employed by Ozigen's competitors and steer it towards the zenith of triumph!
+Calling all content analysis enthusiasts! Ozibook's prized creation, Ozigen, is embarking on an exciting mission to analyze content and propel itself to new heights of success! Our goal is to unravel the victorious strategies employed by Ozigen's competitors and steer it towards the zenith of triumph!In this content analysis task for Ozigen, our mission is to dissect competitors' LinkedIn content over their past 25 posts, decoding the impact of various formats such as images, videos, text, URLs, reposts, and carousels. We will meticulously examine engagement metrics, uncover audience preferences, and extract trending themes and captivating topics from post captions. we aim to provide Ozigen with a comprehensive Content Analysis Report, guiding them to optimize their content strategy, elevate audience engagement, and stand out in the competitive landscape. 
 
 ### Task Objective🎯
 The Objective task is to 
