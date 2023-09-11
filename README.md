@@ -25,7 +25,7 @@ import numpy as np
 ```
 import matplotlib.pyplot as plt
 ```
-3.Import Seaborn <br>
+3. Import Seaborn <br>
 ```
 import seaborn as sns
 ```
