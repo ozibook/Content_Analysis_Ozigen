@@ -11,10 +11,10 @@ The Objective task is to
 
 
 ### 📁File Details
-1. data_visualization_automation.ipynb
+#### 1. data_visualization_automation.ipynb<br>
 Use this python code to create a Content Analysis report 
 
-# Installation Guide👨‍💻
+### Installation Guide👨‍💻
 The following libraries are required to run the code<br>
 1. Import Numpy<br>
 ```
@@ -32,10 +32,10 @@ import seaborn as sns
 ```
 import pandas as pd
 ```
-# FAQs❓
+### FAQs❓
  * Which environment to choose?
    - It is recommended to use Jupyter Notebook.
 
-# Author & Contributions
+### Author & Contributions
 - Atharva Kaushik
 - Chirag Bajaj
