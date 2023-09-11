@@ -16,17 +16,21 @@ Use this python code to create a Content Analysis report
 
 # Installation Guide👨‍💻
 The following libraries are required to run the code<br>
-1. Install Requests<br>
+1. Import Numpy<br>
 ```
-!pip install requests --quiet
+import numpy as np
 ```
-
+2. Import Matplotlib<br>
 ```
-
+import matplotlib.pyplot as plt
 ```
-4. Install Pandas<br>
+3.Import Seaborn <br>
 ```
-!pip install pandas --quiet
+import seaborn as sns
+```
+4. Import Pandas<br>
+```
+import pandas as pd
 ```
 # FAQs❓
  * Which environment to choose?
