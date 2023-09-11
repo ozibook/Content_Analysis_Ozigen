@@ -11,7 +11,8 @@ The Objective task is to
 
 
 ### 📁File Details
-data_visualization_automation.ipynb
+1. data_visualization_automation.ipynb
+Use this python code to create a Content Analysis report 
 
 # Installation Guide👨‍💻
 The following libraries are required to run the code<br>
@@ -32,5 +33,5 @@ The following libraries are required to run the code<br>
    - It is recommended to use Jupyter Notebook.
 
 # Author & Contributions
-- Avinaba Ghosh
-- Gautam Maurya
+- Atharva Kaushik
+- Chirag Bajaj
