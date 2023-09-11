@@ -13,7 +13,7 @@ The Objective task is to
 ### 📁File Details
 #### 1. data_visualization_automation.ipynb<br>
 * Use this python code to create a Content Analysis report
-* Go to File↗️ https://github.com/ozibook/Content_Analysis_Ozigen/blob/main/data_visualization_automation.ipynb
+* [Go to File↗️](https://github.com/ozibook/Content_Analysis_Ozigen/blob/main/data_visualization_automation.ipynb)
 
 # Installation Guide👨‍💻
 The following libraries are required to run the code<br>
