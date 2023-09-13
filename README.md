@@ -11,7 +11,37 @@ The Objective task is to
 * 🌟 Establish our client as a prominent industry figure, staying ahead of competitors.
 * 💡 Increase brand awareness, attract potential leads, and achieve remarkable results in audience engagement and conversion rates.
 
-## Code Explanation
+<details>
+<summary>
+ 
+ ## Code Explanation:memo:
+</summary>
+
+
+### How to use:</br>
+
+**Setup**</br>
+--> Ensure you have Python installed.
+
+--> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
+
+**Extract Timestamps of posts**</br>
+--> Find the different unique usernames
+
+--> Extract the different time stamps and convert it to IST and UTC
+
+**Creating Bar graphs**</br>
+--> Create a data frame by taking mean of the data. 
+
+--> Plotting bar graphs for the data that are available and rest print not found.
+
+**Creating Waterfall graphs**</br>
+--> Formated the data time into human readable time
+
+--> Plotted Waterfall graphs for the given data
+
+
+## Code snippets</br>
  - Installing required libraries
 ![image](https://github.com/ozibook/Content_Analysis_Ozigen/assets/144370840/f6e0ab03-60aa-4fc8-8d58-8347be95b9e1)
  - Extracting unique usernames
@@ -26,6 +56,7 @@ The Objective task is to
  - Formating the date time and plotting waterfall graphs
 ![image](https://github.com/ozibook/Content_Analysis_Ozigen/assets/144370840/96889541-440d-4b27-984f-14d46fd8c051)
 
+</details>
 
 ## File Details📁
 ### 1. data_visualization_automation.ipynb<br>
