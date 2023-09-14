@@ -16,9 +16,8 @@ The Objective task is to
 ## File Details📁
 ### 1. data_visualization_automation.ipynb<br>
 <details>
-<summary>
- 
- Code Explanation:memo:
+<summary> 
+ Code Explanation:
 </summary>
 
 
