@@ -18,7 +18,7 @@ The Objective task is to
 <details>
 <summary>
  
- ## Code Explanation:memo:
+ Code Explanation:memo:
 </summary>
 
 
