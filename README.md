@@ -11,6 +11,10 @@ The Objective task is to
 * 🌟 Establish our client as a prominent industry figure, staying ahead of competitors.
 * 💡 Increase brand awareness, attract potential leads, and achieve remarkable results in audience engagement and conversion rates.
 
+
+
+## File Details📁
+### 1. data_visualization_automation.ipynb<br>
 <details>
 <summary>
  
@@ -57,9 +61,6 @@ The Objective task is to
 ![image](https://github.com/ozibook/Content_Analysis_Ozigen/assets/144370840/96889541-440d-4b27-984f-14d46fd8c051)
 
 </details>
-
-## File Details📁
-### 1. data_visualization_automation.ipynb<br>
 * Use this Python code to create a Content Analysis report
 * [Go to File↗️](https://github.com/ozibook/Content_Analysis_Ozigen/blob/main/data_visualization_automation.ipynb)
 
